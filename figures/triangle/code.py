@@ -7,5 +7,3 @@ def triangle_area(a, b, c):
     area = 0.5 ** (p * (p - a) * (p - b) * (p - c))
     print(area)
 
-
-  #git good
